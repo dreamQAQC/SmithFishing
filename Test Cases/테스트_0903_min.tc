@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>테스트_0903_min</description>
-   <name>테스트_0903_min</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>834fa10f-0cd0-4174-a86c-4aeaca0dd3cb</testCaseGuid>
-</TestCaseEntity>
